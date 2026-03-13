@@ -10,7 +10,7 @@ A fullstack developer and Information Systems student at AAU. I like building cl
 
 - React, Node.js
 
-- Fullstack development with MySQL
+- Fullstack development with Supabase / MySQL
 
 - Practical AI and Machine Learning integrations
 
